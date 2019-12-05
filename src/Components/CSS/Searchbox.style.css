@@ -1,0 +1,18 @@
+.searchbox
+{
+    text-align: center;
+}
+
+.searchbox input
+{
+    width: 25rem;
+    height: 3rem;
+    padding: 0 10px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    outline: none;
+    background: #fff;
+    border: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
